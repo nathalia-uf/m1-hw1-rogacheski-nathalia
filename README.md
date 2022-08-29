@@ -1,6 +1,6 @@
 # m1-hw1-rogacheski-nathalia
 # My First Coding Assignment #
-
+![alt text](https://tenor.com/view/inside-out-sadness-sad-cry-crying-gif-5074207)
 ## About Me ##
 My name is Nathalia Rogachski, and I'm originally from Curitiba, Brazil. I have lived in six cities in my 23 years, continuously having to push my boundaries. I currently work for Disney in their Delivery Service sector at Disney Springs and within Magic Kingdom for Pandora Jewelry. During the pandemic, in May 2021, I graduated from the University of Central Florida with my bachelor's degree in Integrated Business. Like many, I did not have a defined path post-college and decided to funnel my education into Public Relations. I recently started my MA in the Summer of 2022, hoping for a brighter career path.
 ## Past Coding Experience ##
